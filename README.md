@@ -1,0 +1,2 @@
+# Laptop_Price_Prediction_Using_Machine_Learning
+Designed and implemented a machine learning model to accurately predict laptop prices based on key hardware and brand features. Utilized Python libraries such as Pandas, NumPy, Seaborn, Matplotlib, and Scikit-learn to perform comprehensive data analysis and model development. The project involved thorough data preprocessing including handling of null values, duplicates, and inconsistent entries to ensure clean and reliable data.
